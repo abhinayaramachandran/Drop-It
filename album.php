@@ -15,8 +15,8 @@ set_time_limit( 0 );
 require_once 'DropboxClient.php';
 
 $dropbox = new DropboxClient( array(
-	'app_key' => "oapcs2yjift0fn3",      // Put your Dropbox API key here
-	'app_secret' => "oc31as8v3marcnf",   // Put your Dropbox API secret here
+	'app_key' => "",      // Put your Dropbox API key here
+	'app_secret' => "",   // Put your Dropbox API secret here
 	'app_full_access' => false,
 ) );
 

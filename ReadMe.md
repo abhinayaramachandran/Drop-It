@@ -1,7 +1,5 @@
-<snippet>
-  <content><![CDATA[
 
-## Drop It
+# Drop It
 A simple PHP application that would let you upload, download and view images on your dropbox
 
 ## Installation
@@ -28,6 +26,4 @@ https://lambda.uta.edu/
 ## License
 Abhinaya Ramachandran 2017
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
